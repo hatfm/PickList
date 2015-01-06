@@ -1,6 +1,6 @@
 [{
-  'name': 'Matt Kesler',
-  'celebrities': [
+  "name": "Matt Kesler",
+  "celebrities": [
     {
       'name': 'Valerie Harper',
       'points': '0',
