@@ -160,4 +160,220 @@
       "alive": true
     }
   ]}   
+{
+  "name": "Josh Mays",
+  "celebrities": [
+    {
+      "name": "Dick Van Dyke",
+      "points": "11",
+      "alive": true
+    },
+    {
+      "name": "Tony Bennett",
+      "points": "12",
+      "alive": true
+    },
+    {
+      "name": "Ed Asner",
+      "points": "15",
+      "alive": true
+    },
+    {
+      "name": "Christopher Lee",
+      "points": "8",
+      "alive": true
+    },
+    {
+      "name": "Regis Philbin",
+      "points": "17",
+      "alive": true
+    },
+    {
+      "name": "Nicole Richie",
+      "points": "67",
+      "alive": true
+    },
+    {
+      "name": "David Hasselhoff",
+      "points": "38",
+      "alive": true
+    },
+    {
+      "name": "Betty White",
+      "points": "8",
+      "alive": true
+    },
+    {
+      "name": "Kirk Douglas",
+      "points": "2",
+      "alive": true
+    },
+    {
+      "name": "Powers Boothe",
+      "points": "44",
+      "alive": true
+    }
+  ]}   
+  {
+  "name": "Matt Hall",
+  "celebrities": [
+    {
+      "name": "Muhammad Ali",
+      "points": "28",
+      "alive": true
+    },
+    {
+      "name": "Artie Lange",
+      "points": "53",
+      "alive": true
+    },
+    {
+      "name": "Burt Reynolds",
+      "points": "22",
+      "alive": true
+    },
+    {
+      "name": "William Shatner",
+      "points": "17",
+      "alive": true
+    },
+    {
+      "name": "Yoko Ono",
+      "points": "19",
+      "alive": true
+    },
+    {
+      "name": "Michael J. Fox",
+      "points": "47",
+      "alive": true
+    },
+    {
+      "name": "Leonard Nimoy",
+      "points": "17",
+      "alive": true
+    },
+    {
+      "name": "Roman Polanski",
+      "points": "19",
+      "alive": true
+    },
+    {
+      "name": "Tom Baker",
+      "points": "20",
+      "alive": true
+    },
+    {
+      "name": "Tommy Lasorda",
+      "points": "87",
+      "alive": true
+    }
+  ]}   
+  {
+  "name": "Kyle Nottingham",
+  "celebrities": [
+    {
+      "name": "Gaston Glock",
+      "points": "15",
+      "alive": true
+    },
+    {
+      "name": "Ingvar Kamprad",
+      "points": "12",
+      "alive": true
+    },
+    {
+      "name": "Abdullah the Butcher",
+      "points": "27",
+      "alive": true
+    },
+    {
+      "name": "Mr. Fuji",
+      "points": "21",
+      "alive": true
+    },
+    {
+      "name": "Gerard Depardieu",
+      "points": "44",
+      "alive": true
+    },
+    {
+      "name": "Hosni Mubarak",
+      "points": "14",
+      "alive": true
+    },
+    {
+      "name": "Boutros Boutros-Ghali",
+      "points": "8",
+      "alive": true
+    },
+    {
+      "name": "Tom Brokaw",
+      "points": "26",
+      "alive": true
+    },
+    {
+      "name": "Henry Kissinger",
+      "points": "9",
+      "alive": true
+    },
+    {
+      "name": "John Forbes Nash",
+      "points": "14",
+      "alive": true
+    }
+  ]}   
+  {
+  "name": "Carlee Graybill",
+  "celebrities": [
+    {
+      "name": "Gene Wilder",
+      "points": "19",
+      "alive": true
+    },
+    {
+      "name": "Lindsey Lohan",
+      "points": "72",
+      "alive": true
+    },
+    {
+      "name": "Prince",
+      "points": "44",
+      "alive": true
+    },
+    {
+      "name": "Mark-Paul Gosselar",
+      "points": "60",
+      "alive": true
+    },
+    {
+      "name": "Rob Lowe",
+      "points": "50",
+      "alive": true
+    },
+    {
+      "name": "Kate Moss",
+      "points": "60",
+      "alive": true
+    },
+    {
+      "name": "Woody Allen",
+      "points": "21",
+      "alive": true
+    },
+    {
+      "name": "Steven Spielberg",
+      "points": "32",
+      "alive": true
+    },
+    {
+      "name": "Pamela Anderson",
+      "points": "53",
+      "alive": true
+    },
+    {
+      "name": "Adam West",
+      "points": "14",
+      "alive": true
+    }
+  ]}   
 ]
