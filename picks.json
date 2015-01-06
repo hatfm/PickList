@@ -1,20 +1,20 @@
-draft = [{
-  name: "Matt Kesler",
-  celebrities: [
+[{
+  'name': 'Matt Kesler',
+  'celebrities': [
     {
-      name: 'Valerie Harper',
-      points: '0',
-      alive: true
+      'name': 'Valerie Harper',
+      'points': '0',
+      'alive': true
     },
     {
-      name: 'Stephen Hawking',
-      points: '0',
-      alive: true
+      'name': 'Stephen Hawking',
+      'points': '0',
+      'alive': true
     },
     {
-      name: 'Fidel Castro',
-      points: '0',
-      alive: true
+      'name': 'Fidel Castro',
+      'points': '0',
+      'alive': true
     },
     {
       name: 'Jerry Lewis',
