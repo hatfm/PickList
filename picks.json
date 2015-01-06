@@ -3,52 +3,52 @@
   "celebrities": [
     {
       "name": "Valerie Harper",
-      "points": "0",
+      "points": "25",
       "alive": true
     },
     {
       "name": "Stephen Hawking",
-      "points": "0",
+      "points": "28",
       "alive": true
     },
     {
       "name": "Fidel Castro",
-      "points": "0",
+      "points": "12",
       "alive": true
     },
     {
       "name": "Jerry Lewis",
-      "points": "0",
+      "points": "12",
       "alive": true
     },
     {
       "name": "Amanda Bynes",
-      "points": "0",
+      "points": "72",
       "alive": true
     },
     {
       "name": "Abe Vigoda",
-      "points": "0",
+      "points": "7",
       "alive": true
     },
     {
       "name": "Carl Reiner",
-      "points": "0",
+      "points": "8",
       "alive": true
     },
     {
       "name": "Terry Pratchett",
-      "points": "0",
+      "points": "34",
       "alive": true
     },
     {
       "name": "Keith Richards",
-      "points": "0",
+      "points": "29",
       "alive": true
     },
     {
       "name": "Billy Graham",
-      "points": "0",
+      "points": "4",
       "alive": true
     }
   ]},
@@ -105,5 +105,59 @@
       "points": "16",
       "alive": true
     }
-  ]} 
+  ]},
+  {
+  "name": "Josh Skiles",
+  "celebrities": [
+    {
+      "name": "Jake 'the Snake' Roberts",
+      "points": "41",
+      "alive": true
+    },
+    {
+      "name": "Bushwick Bill",
+      "points": "52",
+      "alive": true
+    },
+    {
+      "name": "Randy Travis",
+      "points": "45",
+      "alive": true
+    },
+    {
+      "name": "Peter Mayhew Chewbacca",
+      "points": "30",
+      "alive": true
+    },
+    {
+      "name": "Jerry Lee Lewis",
+      "points": "21",
+      "alive": true
+    },
+    {
+      "name": "Lee Iaccoca",
+      "points": "10",
+      "alive": true
+    },
+    {
+      "name": "Jim Brown",
+      "points": "21",
+      "alive": true
+    },
+    {
+      "name": "Roger Moore",
+      "points": "13",
+      "alive": true
+    },
+    {
+      "name": "Gloria Vanderbilt",
+      "points": "10",
+      "alive": true
+    },
+    {
+      "name": "Bernie Ecclestone",
+      "points": "16",
+      "alive": true
+    }
+  ]}   
 ]
